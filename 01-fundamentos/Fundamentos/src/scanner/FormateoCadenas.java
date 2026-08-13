@@ -22,7 +22,8 @@ public class FormateoCadenas {
 
         mensaje = """
                 %nDetalle Persona:
+                
+                Nombre : %s
                 """;
-
     }
 }
